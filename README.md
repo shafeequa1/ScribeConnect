@@ -9,8 +9,7 @@
 - Member 2: shafeequa TK - sullamussalam science college 
 
 ### Hosted Project Link
-
-https://shafeequa1.github.io/
+(https://github.com/shafeequa1/ScribeConnect)
 
 ### Project Description
 digital platform that connects differently abled students who require assistance during examinations with quilified students volunterees willing to act as scribes
